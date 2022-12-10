@@ -3,7 +3,7 @@
 <br/><br/>
 ![](https://komarev.com/ghpvc/?username=silentboy3dx&color=blueviolet)
 
-### Some Fun Facts about me:
+## Some Fun Facts about me
 
 
 ### Fact #1
