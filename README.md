@@ -1,5 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=silentboy3dx&color=blueviolet)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silentboy3dx&show_icons=true&theme=transparent)
+
+
 - 👋 Hi, I’m @silentboy3dx .. And you are hopefully one of my friends.
 - 👀 I’m interested in ... My own wife MrsSilentShimmer.
 - 🌱 I’m currently learning ... That people are not always nice or fair.
