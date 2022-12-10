@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=silentboy3dx&color=blueviolet)
+
 - 👋 Hi, I’m @silentboy3dx .. And you are hopefully one of my friends.
 - 👀 I’m interested in ... My own wife MrsSilentShimmer.
 - 🌱 I’m currently learning ... That people are not always nice or fair.
