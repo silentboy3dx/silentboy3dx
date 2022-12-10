@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=silentboy3dx&color=blueviolet)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silentboy3dx&show_icons=true&theme=transparent)
+![](https://komarev.com/ghpvc/?username=silentboy3dx&color=blueviolet)
 
 
 - 👋 Hi, I’m @silentboy3dx .. And you are hopefully one of my friends.
